@@ -1,0 +1,16 @@
+C:\Users\Sinan\source\repos\ProjeOdevi\ProjeOdevi\bin\Debug\ProjeOdevi.exe.config
+C:\Users\Sinan\source\repos\ProjeOdevi\ProjeOdevi\bin\Debug\ProjeOdevi.exe
+C:\Users\Sinan\source\repos\ProjeOdevi\ProjeOdevi\bin\Debug\ProjeOdevi.pdb
+C:\Users\Sinan\source\repos\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.csprojAssemblyReference.cache
+C:\Users\Sinan\source\repos\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.Form1.resources
+C:\Users\Sinan\source\repos\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.Properties.Resources.resources
+C:\Users\Sinan\source\repos\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.csproj.GenerateResource.cache
+C:\Users\Sinan\source\repos\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\Sinan\source\repos\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.exe
+C:\Users\Sinan\source\repos\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.pdb
+C:\Users\Sinan\source\repos\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.Form2.resources
+C:\Users\Sinan\source\repos\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.Form3.resources
+C:\Users\Sinan\source\repos\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.Form4.resources
+C:\Users\Sinan\source\repos\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.Form5.resources
+C:\Users\Sinan\source\repos\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.Form6.resources
+C:\Users\Sinan\source\repos\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.Form7.resources
